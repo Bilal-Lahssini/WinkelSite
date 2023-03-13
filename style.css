@@ -248,7 +248,7 @@ header {
   .header__nav {
     position: absolute;
     bottom: -150%;
-    line-height: 1.4em;
+    line-height: 1.5em;
     gap: 0;
     flex-direction: column;
     width: 100%;
