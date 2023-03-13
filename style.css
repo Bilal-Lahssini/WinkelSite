@@ -7,6 +7,10 @@
  --swiper-pagination-color: black;
 }
 
+::placeholder{
+  color: gray;
+}
+
 header{
   position: absolute;
   top: 0;
